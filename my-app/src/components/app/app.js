@@ -24,7 +24,8 @@ function App() {
             </div>
             
             <EmployeesList data={data}/>
-            <EmployeesAddForm/>
+            <EmployeesAddForm />
+            <span></span>
         </div>
     );
 }
